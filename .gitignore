@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Sensitive Information
+.env
+
+# Data
+data/raw/
+
+# Logs
+*.log
+
+# Temp Scripts (Helper scripts from geocoding fixes)
+fix_*.py

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>육군 휴드림 복지시설 지도</title>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Floating Search Bar -->
+    <div id="search-container">
+        <div class="search-box">
+            <input type="text" id="search-input" placeholder="시설명, 지역 검색...">
+            <button id="menu-btn">☰</button>
+        </div>
+        <div id="filter-panel" class="hidden">
+            <div class="filter-group">
+                <label>카테고리</label>
+                <select id="category-filter">
+                    <option value="all">전체 보기</option>
+                    <option value="lodging">숙박/호텔/콘도</option>
+                    <option value="sports">체력단련장/골프</option>
+                    <option value="mart">마트/쇼핑</option>
+                    <option value="welfare_service">복지서비스</option>
+                    <option value="contact">연락처/문의</option>
+                    <option value="other">기타</option>
+                </select>
+            </div>
+            <div class="filter-group toggles">
+                <label><input type="checkbox" id="phone-toggle"> 전화번호 있음</label>
+                <label><input type="checkbox" id="link-toggle"> 예약/링크 있음</label>
+            </div>
+        </div>
+    </div>
+
+    <!-- Map Container -->
+    <div id="map"></div>
+
+    <!-- Bottom Sheet List -->
+    <div id="bottom-sheet">
+        <div class="sheet-handle"></div>
+        <div class="sheet-header">
+            <h2 id="list-title">시설 목록 <span id="list-count">(0)</span></h2>
+        </div>
+        <div id="results-list">
+            <!-- List items will be populated here -->
+        </div>
+    </div>
+
+    <!-- Kakao Maps SDK -->
+    <script type="text/javascript"
+        src="//dapi.kakao.com/v2/maps/sdk.js?appkey=cc31afafaad42c089ef3bfd03fb74caa&libraries=services,clusterer"></script>
+
+    <!-- App JS -->
+    <script src="app.js"></script>
+</body>
+
+</html>

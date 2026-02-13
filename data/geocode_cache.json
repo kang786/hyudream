@@ -1,0 +1,2768 @@
+{
+  "충청북도 괴산군 괴산읍 읍내로 194": {
+    "lat": 36.8098802,
+    "lng": 127.7950299,
+    "provider": "nominatim",
+    "ts": 1770882044.540482,
+    "raw": {
+      "place_id": 207182218,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 445213581,
+      "lat": "36.8098802",
+      "lon": "127.7950299",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053370834668497714,
+      "addresstype": "road",
+      "name": "읍내로",
+      "display_name": "읍내로, 동부리, 괴산읍, 괴산군, 충청북도, 28031, 대한민국",
+      "boundingbox": [
+        "36.8091642",
+        "36.8105924",
+        "127.7946291",
+        "127.7954376"
+      ]
+    }
+  },
+  "경기도 포천시 일동면 화동로 1004-1": {
+    "lat": 37.963881,
+    "lng": 127.3224839,
+    "provider": "nominatim",
+    "ts": 1770882048.9550917,
+    "raw": {
+      "place_id": 206235224,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 471360775,
+      "lat": "37.9638810",
+      "lon": "127.3224839",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339040131227585,
+      "addresstype": "road",
+      "name": "화동로",
+      "display_name": "화동로, 일동면, 포천시, 경기도, 11116, 대한민국",
+      "boundingbox": [
+        "37.9594441",
+        "37.9667645",
+        "127.3188537",
+        "127.3273013"
+      ]
+    }
+  },
+  "강원도 양구군 방산면 평화로 5459-2": {
+    "lat": 38.2070066,
+    "lng": 128.005776,
+    "provider": "nominatim",
+    "ts": 1770882066.9339945,
+    "raw": {
+      "place_id": 390688559,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1339180907,
+      "lat": "38.2070066",
+      "lon": "128.0057760",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337833447775994,
+      "addresstype": "road",
+      "name": "평화로",
+      "display_name": "평화로, 방산면, 양구군, 강원특별자치도, 24501, 대한민국",
+      "boundingbox": [
+        "38.2028836",
+        "38.2081145",
+        "128.0019779",
+        "128.0058817"
+      ]
+    }
+  },
+  "경기도 포천시 창수면 청창로 751": {
+    "lat": 38.0184107,
+    "lng": 127.1456479,
+    "provider": "nominatim",
+    "ts": 1770882071.6178577,
+    "raw": {
+      "place_id": 206715607,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 419723776,
+      "lat": "38.0184107",
+      "lon": "127.1456479",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339040131227585,
+      "addresstype": "road",
+      "name": "청창로",
+      "display_name": "청창로, 고소성리, 포천시, 경기도, 11020, 대한민국",
+      "boundingbox": [
+        "38.0176655",
+        "38.0229891",
+        "127.1393153",
+        "127.1534088"
+      ]
+    }
+  },
+  "강원도 철원군 서면 자등로 611-1": {
+    "lat": 38.1258472,
+    "lng": 127.4020511,
+    "provider": "nominatim",
+    "ts": 1770882086.1380231,
+    "raw": {
+      "place_id": 206596843,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1296184641,
+      "lat": "38.1258472",
+      "lon": "127.4020511",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05337833447775994,
+      "addresstype": "road",
+      "name": "자등로",
+      "display_name": "자등로, 서면, 철원군, 강원특별자치도, 24062, 대한민국",
+      "boundingbox": [
+        "38.1230733",
+        "38.1284139",
+        "127.4019268",
+        "127.4029205"
+      ]
+    }
+  },
+  "경기도 양주시 꿈나무로 18": {
+    "lat": 37.7835808,
+    "lng": 126.9827636,
+    "provider": "nominatim",
+    "ts": 1770882104.8282788,
+    "raw": {
+      "place_id": 213447649,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 363067570,
+      "lat": "37.7835808",
+      "lon": "126.9827636",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339101014724953,
+      "addresstype": "road",
+      "name": "꿈나무로",
+      "display_name": "꿈나무로, 백석읍, 양주시, 경기도, 11510, 대한민국",
+      "boundingbox": [
+        "37.7809286",
+        "37.7862083",
+        "126.9818957",
+        "126.9837034"
+      ]
+    }
+  },
+  "강원도 양구군 양구읍 상리 96-2": {
+    "lat": 38.1043952,
+    "lng": 127.9878714,
+    "provider": "nominatim",
+    "ts": 1770882114.1944594,
+    "raw": {
+      "place_id": 204845778,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 415152038,
+      "lat": "38.1043952",
+      "lon": "127.9878714",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14671166781109327,
+      "addresstype": "village",
+      "name": "상리",
+      "display_name": "상리, 양구읍, 양구군, 강원특별자치도, 24536, 대한민국",
+      "boundingbox": [
+        "38.0843952",
+        "38.1243952",
+        "127.9678714",
+        "128.0078714"
+      ]
+    }
+  },
+  "대구 수성구 연호동 8-2": {
+    "lat": 35.84173,
+    "lng": 128.6723,
+    "provider": "nominatim",
+    "ts": 1770882115.8627236,
+    "raw": {
+      "place_id": 249868097,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 415148843,
+      "lat": "35.8417300",
+      "lon": "128.6723000",
+      "class": "place",
+      "type": "quarter",
+      "place_rank": 20,
+      "importance": 0.13340402151522085,
+      "addresstype": "quarter",
+      "name": "연호동",
+      "display_name": "연호동, 고산2동, 수성구, 대구광역시, 42250, 대한민국",
+      "boundingbox": [
+        "35.8317300",
+        "35.8517300",
+        "128.6623000",
+        "128.6823000"
+      ]
+    }
+  },
+  "전북 익산시 옥금동길 6": {
+    "lat": 36.0567777,
+    "lng": 127.0673257,
+    "provider": "nominatim",
+    "ts": 1770882126.942914,
+    "raw": {
+      "place_id": 206631808,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1200627260,
+      "lat": "36.0567777",
+      "lon": "127.0673257",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05338956206607153,
+      "addresstype": "road",
+      "name": "옥금동길",
+      "display_name": "옥금동길, 여산면, 익산시, 전북특별자치도, 54520, 대한민국",
+      "boundingbox": [
+        "36.0507449",
+        "36.0626172",
+        "127.0642086",
+        "127.0691994"
+      ]
+    }
+  },
+  "강원도 철원군 근남면 수피령로 2312": {
+    "lat": 38.2061499,
+    "lng": 127.5192446,
+    "provider": "nominatim",
+    "ts": 1770882132.4211369,
+    "raw": {
+      "place_id": 206079648,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1182263615,
+      "lat": "38.2061499",
+      "lon": "127.5192446",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05337833447775994,
+      "addresstype": "road",
+      "name": "수피령로",
+      "display_name": "수피령로, 근남면, 철원군, 강원특별자치도, 24104, 대한민국",
+      "boundingbox": [
+        "38.2061405",
+        "38.2061592",
+        "127.5191988",
+        "127.5192903"
+      ]
+    }
+  },
+  "논산시 득안대로 652": {
+    "lat": 36.1764703,
+    "lng": 127.0997018,
+    "provider": "nominatim",
+    "ts": 1770882141.1201696,
+    "raw": {
+      "place_id": 207301746,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 559752491,
+      "lat": "36.1764703",
+      "lon": "127.0997018",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.2521482229732802,
+      "addresstype": "road",
+      "name": "득안대로",
+      "display_name": "득안대로, 내동, 교촌리, 논산시, 충청남도, 32991, 대한민국",
+      "boundingbox": [
+        "36.1708085",
+        "36.1818926",
+        "127.0956459",
+        "127.1033393"
+      ]
+    }
+  },
+  "강원특별자치도 양양군 강현면 정암리 679": {
+    "lat": 38.14305,
+    "lng": 128.60733,
+    "provider": "nominatim",
+    "ts": 1770882142.8569846,
+    "raw": {
+      "place_id": 250957493,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 415151915,
+      "lat": "38.1430500",
+      "lon": "128.6073300",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "정암리",
+      "display_name": "정암리, 강현면, 양양군, 강원특별자치도, 25003, 대한민국",
+      "boundingbox": [
+        "38.1230500",
+        "38.1630500",
+        "128.5873300",
+        "128.6273300"
+      ]
+    }
+  },
+  "강원도 철원군 김화읍 김화로 309": {
+    "lat": 38.2483457,
+    "lng": 127.4197796,
+    "provider": "nominatim",
+    "ts": 1770882144.5737214,
+    "raw": {
+      "place_id": 206587927,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 469215919,
+      "lat": "38.2483457",
+      "lon": "127.4197796",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05337833447775994,
+      "addresstype": "road",
+      "name": "김화로",
+      "display_name": "김화로, 김화읍, 철원군, 강원특별자치도, 24054, 대한민국",
+      "boundingbox": [
+        "38.2468096",
+        "38.2499144",
+        "127.4187505",
+        "127.4208603"
+      ]
+    }
+  },
+  "경기도 양주시 칠봉산로 186": {
+    "lat": 37.8387883,
+    "lng": 127.0897033,
+    "provider": "nominatim",
+    "ts": 1770882149.82835,
+    "raw": {
+      "place_id": 393843744,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 464744533,
+      "lat": "37.8387883",
+      "lon": "127.0897033",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05339101014724953,
+      "addresstype": "road",
+      "name": "칠봉산로",
+      "display_name": "칠봉산로, 옥정신도시, 양주시, 경기도, 11468, 대한민국",
+      "boundingbox": [
+        "37.8385091",
+        "37.8390452",
+        "127.0895525",
+        "127.0898099"
+      ]
+    }
+  },
+  "충청남도 계룡시 신도안면 신도안2길 96": {
+    "lat": 36.3037361,
+    "lng": 127.2464664,
+    "provider": "nominatim",
+    "ts": 1770882157.824769,
+    "raw": {
+      "place_id": 207390309,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 665839617,
+      "lat": "36.3037361",
+      "lon": "127.2464664",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.0533998908979934,
+      "addresstype": "road",
+      "name": "신도안2길",
+      "display_name": "신도안2길, 남선리, 계룡시, 충청남도, 32801, 대한민국",
+      "boundingbox": [
+        "36.3024768",
+        "36.3053616",
+        "127.2455609",
+        "127.2466590"
+      ]
+    }
+  },
+  "증평군 증평읍 초정약수로 1530": {
+    "lat": 36.7310552,
+    "lng": 127.6141432,
+    "provider": "nominatim",
+    "ts": 1770882176.5879183,
+    "raw": {
+      "place_id": 205852842,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 645014461,
+      "lat": "36.7310552",
+      "lon": "127.6141432",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339457312886241,
+      "addresstype": "road",
+      "name": "초정약수로",
+      "display_name": "초정약수로, 남차리, 증평읍, 증평군, 충청북도, 27909, 대한민국",
+      "boundingbox": [
+        "36.7279572",
+        "36.7332136",
+        "127.6099038",
+        "127.6188128"
+      ]
+    }
+  },
+  "경기도 가평군 가평읍 승안리 65": {
+    "lat": 37.8655957,
+    "lng": 127.4697961,
+    "provider": "nominatim",
+    "ts": 1770882178.4371178,
+    "raw": {
+      "place_id": 205631279,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 415152736,
+      "lat": "37.8655957",
+      "lon": "127.4697961",
+      "class": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670666742961772,
+      "addresstype": "village",
+      "name": "승안리",
+      "display_name": "승안리, 가평읍, 가평군, 경기도, 12408, 대한민국",
+      "boundingbox": [
+        "37.8455957",
+        "37.8855957",
+        "127.4497961",
+        "127.4897961"
+      ]
+    }
+  },
+  "경상북도 안동시 경동로 371": {
+    "lat": 36.5649916,
+    "lng": 128.9183289,
+    "provider": "nominatim",
+    "ts": 1770882183.6307456,
+    "raw": {
+      "place_id": 250317689,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 28485690,
+      "lat": "36.5649916",
+      "lon": "128.9183289",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05339202792401004,
+      "addresstype": "road",
+      "name": "경동로",
+      "display_name": "경동로, 수곡리, 안동시, 경상북도, 36732, 대한민국",
+      "boundingbox": [
+        "36.5546900",
+        "36.5699296",
+        "128.9143600",
+        "128.9282932"
+      ]
+    }
+  },
+  "포천시 이동면 성장로 737": {
+    "lat": 38.0171561,
+    "lng": 127.3574636,
+    "provider": "nominatim",
+    "ts": 1770882185.8306441,
+    "raw": {
+      "place_id": 207075868,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 290477220,
+      "lat": "38.0171561",
+      "lon": "127.3574636",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339040131227585,
+      "addresstype": "road",
+      "name": "성장로",
+      "display_name": "성장로, 이동면, 포천시, 경기도, 11113, 대한민국",
+      "boundingbox": [
+        "38.0093503",
+        "38.0327674",
+        "127.3419143",
+        "127.3653090"
+      ]
+    }
+  },
+  "포천시 영북면 산정호수로 840": {
+    "lat": 38.0709464,
+    "lng": 127.2977387,
+    "provider": "nominatim",
+    "ts": 1770882517.047646,
+    "raw": {
+      "place_id": 205757559,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 953217894,
+      "lat": "38.0709464",
+      "lon": "127.2977387",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339040131227585,
+      "addresstype": "road",
+      "name": "산정호수로",
+      "display_name": "산정호수로, 영북면, 포천시, 11103, 대한민국",
+      "boundingbox": [
+        "38.0702892",
+        "38.0715111",
+        "127.2945371",
+        "127.3009568"
+      ]
+    }
+  },
+  "강원도 인제군 북면 원통로 113-3": {
+    "lat": 38.1265656,
+    "lng": 128.2115251,
+    "provider": "nominatim",
+    "ts": 1770882525.2831457,
+    "raw": {
+      "place_id": 250863550,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 572319271,
+      "lat": "38.1265656",
+      "lon": "128.2115251",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337833447775994,
+      "addresstype": "road",
+      "name": "원통로",
+      "display_name": "원통로, 원통리, 북면, 인제군, 강원특별자치도, 24614, 대한민국",
+      "boundingbox": [
+        "38.1258551",
+        "38.1272853",
+        "128.2109278",
+        "128.2121331"
+      ]
+    }
+  },
+  "서울시 노원구 화랑로 564": {
+    "lat": 37.6209091,
+    "lng": 127.0912717,
+    "provider": "nominatim",
+    "ts": 1770882537.3977728,
+    "raw": {
+      "place_id": 206310139,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1151972277,
+      "lat": "37.6209091",
+      "lon": "127.0912717",
+      "class": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.29800869763793e-05,
+      "addresstype": "building",
+      "name": "106동",
+      "display_name": "106동, 564, 화랑로, 공릉2동, 노원구, 서울특별시, 01800, 대한민국",
+      "boundingbox": [
+        "37.6207135",
+        "37.6211132",
+        "127.0909317",
+        "127.0915496"
+      ]
+    }
+  },
+  "대구광역시 수성구 만촌동 무열로 56": {
+    "lat": 35.859151,
+    "lng": 128.6464343,
+    "provider": "nominatim",
+    "ts": 1770882542.5419528,
+    "raw": {
+      "place_id": 250689702,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 374741365,
+      "lat": "35.8591510",
+      "lon": "128.6464343",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05340402151522084,
+      "addresstype": "road",
+      "name": "무열로",
+      "display_name": "무열로, 만촌동, 만촌2동, 수성구, 대구광역시, 42062, 대한민국",
+      "boundingbox": [
+        "35.8590311",
+        "35.8592708",
+        "128.6462885",
+        "128.6465800"
+      ]
+    }
+  },
+  "강원도 화천군 상서면 신월동로 143": {
+    "lat": 38.2418937,
+    "lng": 127.5847948,
+    "provider": "nominatim",
+    "ts": 1770882553.9713466,
+    "raw": {
+      "place_id": 206288637,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 421617693,
+      "lat": "38.2418937",
+      "lon": "127.5847948",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337833447775994,
+      "addresstype": "road",
+      "name": "신월동로",
+      "display_name": "신월동로, 상서면, 화천군, 강원특별자치도, 24100, 대한민국",
+      "boundingbox": [
+        "38.2375340",
+        "38.2489870",
+        "127.5828530",
+        "127.5867690"
+      ]
+    }
+  },
+  "강원도 고성군 토성면 고성대로 415": {
+    "lat": 38.21747,
+    "lng": 128.5040861,
+    "provider": "nominatim",
+    "ts": 1770882555.632087,
+    "raw": {
+      "place_id": 251170407,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 83334714,
+      "lat": "38.2174700",
+      "lon": "128.5040861",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053370834668497714,
+      "addresstype": "road",
+      "name": "고성대로",
+      "display_name": "고성대로, 인흥리, 토성면, 고성군, 강원특별자치도, 24766, 대한민국",
+      "boundingbox": [
+        "38.2169376",
+        "38.2180540",
+        "128.5038870",
+        "128.5043982"
+      ]
+    }
+  },
+  "강원도 원주시 단구동 538-1": {
+    "lat": 37.3238439,
+    "lng": 127.9530415,
+    "provider": "nominatim",
+    "ts": 1770882569.6046684,
+    "raw": {
+      "place_id": 205634701,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 415154660,
+      "lat": "37.3238439",
+      "lon": "127.9530415",
+      "class": "place",
+      "type": "quarter",
+      "place_rank": 20,
+      "importance": 0.1333918890669108,
+      "addresstype": "quarter",
+      "name": "단구동",
+      "display_name": "단구동, 원주시, 강원특별자치도, 26487, 대한민국",
+      "boundingbox": [
+        "37.3138439",
+        "37.3338439",
+        "127.9430415",
+        "127.9630415"
+      ]
+    }
+  },
+  "강원도 화천군 사내면 사내로3길 49": {
+    "lat": 38.0697268,
+    "lng": 127.5164993,
+    "provider": "nominatim",
+    "ts": 1770882584.4658747,
+    "raw": {
+      "place_id": 429781053,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13533499991,
+      "lat": "38.0697268",
+      "lon": "127.5164993",
+      "class": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 4.5001144426596745e-05,
+      "addresstype": "tourism",
+      "name": "승리레스텔",
+      "display_name": "승리레스텔, 49, 사내로3길, 사창리, 사내면, 화천군, 강원특별자치도, 24155, 대한민국",
+      "boundingbox": [
+        "38.0696768",
+        "38.0697768",
+        "127.5164493",
+        "127.5165493"
+      ]
+    }
+  },
+  "경기도 이천시 장호원읍 경충대로 719-13": {
+    "lat": 37.131941,
+    "lng": 127.6047131,
+    "provider": "nominatim",
+    "ts": 1770937822.287816,
+    "raw": {
+      "place_id": 206421552,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 329018860,
+      "lat": "37.1319410",
+      "lon": "127.6047131",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.053391071183337115,
+      "addresstype": "road",
+      "name": "경충대로",
+      "display_name": "경충대로, 장호원읍, 이천시, 경기도, 17422, 대한민국",
+      "boundingbox": [
+        "37.1305606",
+        "37.1334235",
+        "127.6022389",
+        "127.6072458"
+      ]
+    }
+  },
+  "경기도 파주시 통일로 566": {
+    "lat": 37.746161,
+    "lng": 126.8063276,
+    "provider": "nominatim",
+    "ts": 1770937858.925881,
+    "raw": {
+      "place_id": 207055390,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 220147635,
+      "lat": "37.7461610",
+      "lon": "126.8063276",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05339322728313112,
+      "addresstype": "road",
+      "name": "통일로",
+      "display_name": "통일로, 조리읍, 파주시, 경기도, 10937, 대한민국",
+      "boundingbox": [
+        "37.7443272",
+        "37.7479129",
+        "126.8036078",
+        "126.8089870"
+      ]
+    }
+  },
+  "광명시 성채로78번길 19": {
+    "lat": 37.4324672,
+    "lng": 126.8760612,
+    "provider": "nominatim",
+    "ts": 1770937863.55653,
+    "raw": {
+      "place_id": 206024242,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 381928928,
+      "lat": "37.4324672",
+      "lon": "126.8760612",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339069428549627,
+      "addresstype": "road",
+      "name": "성채로78번길",
+      "display_name": "성채로78번길, 소하2동, 광명시, 14333, 대한민국",
+      "boundingbox": [
+        "37.4316429",
+        "37.4331627",
+        "126.8741469",
+        "126.8776546"
+      ]
+    }
+  },
+  "장성군 삼계면 능성로 548": {
+    "lat": 35.2605998,
+    "lng": 126.6771538,
+    "provider": "nominatim",
+    "ts": 1770937869.13056,
+    "raw": {
+      "place_id": 206509653,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8515710557,
+      "lat": "35.2605998",
+      "lon": "126.6771538",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 4.0000762951049326e-05,
+      "addresstype": "amenity",
+      "name": "1105다이닝",
+      "display_name": "1105다이닝, 548, 능성로, 삼계면, 장성군, 전라남도, 57238, 대한민국",
+      "boundingbox": [
+        "35.2605498",
+        "35.2606498",
+        "126.6771038",
+        "126.6772038"
+      ]
+    }
+  },
+  "고양시 덕양구 지축동 백운길 27-41": {
+    "lat": 37.6526795,
+    "lng": 126.9331828,
+    "provider": "nominatim",
+    "ts": 1770937873.4667616,
+    "raw": {
+      "place_id": 203670507,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 689866486,
+      "lat": "37.6526795",
+      "lon": "126.9331828",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053396518654154235,
+      "addresstype": "road",
+      "name": "백운길",
+      "display_name": "백운길, 지축동, 효자동, 덕양구, 고양시, 03304, 대한민국",
+      "boundingbox": [
+        "37.6526483",
+        "37.6527217",
+        "126.9319848",
+        "126.9343805"
+      ]
+    }
+  },
+  "강원도 양양군 양양읍 남문7길 20": {
+    "lat": 38.0746236,
+    "lng": 128.621949,
+    "provider": "nominatim",
+    "ts": 1770937875.581646,
+    "raw": {
+      "place_id": 250680399,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 168664766,
+      "lat": "38.0746236",
+      "lon": "128.6219490",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337333409628439,
+      "addresstype": "road",
+      "name": "남문7길",
+      "display_name": "남문7길, 남문리, 양양읍, 양양군, 강원특별자치도, 25030, 대한민국",
+      "boundingbox": [
+        "38.0741976",
+        "38.0750496",
+        "128.6216868",
+        "128.6222112"
+      ]
+    }
+  },
+  "경기도 화성시 매송면 화성로 2435": {
+    "lat": 37.2486382,
+    "lng": 126.8969332,
+    "provider": "nominatim",
+    "ts": 1770937936.8217666,
+    "raw": {
+      "place_id": 206846114,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 832874435,
+      "lat": "37.2486382",
+      "lon": "126.8969332",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.0533933478294041,
+      "addresstype": "road",
+      "name": "화성로",
+      "display_name": "화성로, 효행구, 화성시, 경기도, 18287, 대한민국",
+      "boundingbox": [
+        "37.2479472",
+        "37.2489315",
+        "126.8949232",
+        "126.8988573"
+      ]
+    }
+  },
+  "전라북도 익산시 금마면 미륵사지로 174": {
+    "lat": 36.0006125,
+    "lng": 127.0450299,
+    "provider": "nominatim",
+    "ts": 1770938044.0317574,
+    "raw": {
+      "place_id": 203963466,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1020308944,
+      "lat": "36.0006125",
+      "lon": "127.0450299",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05338956206607153,
+      "addresstype": "road",
+      "name": "미륵사지로",
+      "display_name": "미륵사지로, 금마면, 익산시, 전북특별자치도, 54572, 대한민국",
+      "boundingbox": [
+        "35.9956403",
+        "36.0052097",
+        "127.0406341",
+        "127.0490233"
+      ]
+    }
+  },
+  "경기도 용인시 처인구 포곡읍 부곡로 21": {
+    "lat": 37.2804445841628,
+    "lng": 127.219899459231,
+    "provider": "kakao_address",
+    "ts": 1770956086.589998,
+    "raw": {
+      "address": {
+        "address_name": "경기 용인시 처인구 포곡읍 전대리 164-3",
+        "b_code": "4146125027",
+        "h_code": "4146125000",
+        "main_address_no": "164",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "용인시 처인구",
+        "region_3depth_h_name": "포곡읍",
+        "region_3depth_name": "포곡읍 전대리",
+        "sub_address_no": "3",
+        "x": "127.219899459231",
+        "y": "37.2804445841628"
+      },
+      "address_name": "경기 용인시 처인구 포곡읍 부곡로 21",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 용인시 처인구 포곡읍 부곡로 21",
+        "building_name": "",
+        "main_building_no": "21",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "용인시 처인구",
+        "region_3depth_name": "포곡읍 전대리",
+        "road_name": "부곡로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.219899459231",
+        "y": "37.2804445841628",
+        "zone_no": "17023"
+      },
+      "x": "127.219899459231",
+      "y": "37.2804445841628"
+    }
+  },
+  "경기도 남양주시 와부읍 석실로 260번길74-17 충호회관": {
+    "lat": 37.6029341217026,
+    "lng": 127.22570410272,
+    "provider": "kakao_address",
+    "ts": 1770956086.8090148,
+    "raw": {
+      "address": {
+        "address_name": "경기 남양주시 와부읍 월문리 산 319-1",
+        "b_code": "4136025024",
+        "h_code": "4136025000",
+        "main_address_no": "319",
+        "mountain_yn": "Y",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "남양주시",
+        "region_3depth_h_name": "와부읍",
+        "region_3depth_name": "와부읍 월문리",
+        "sub_address_no": "1",
+        "x": "127.22570410272",
+        "y": "37.6029341217026"
+      },
+      "address_name": "경기 남양주시 와부읍 석실로260번길 74-17",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 남양주시 와부읍 석실로260번길 74-17",
+        "building_name": "",
+        "main_building_no": "74",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "남양주시",
+        "region_3depth_name": "와부읍 월문리",
+        "road_name": "석실로260번길",
+        "sub_building_no": "17",
+        "underground_yn": "N",
+        "x": "127.22570410272",
+        "y": "37.6029341217026",
+        "zone_no": "12203"
+      },
+      "x": "127.22570410272",
+      "y": "37.6029341217026"
+    }
+  },
+  "경기도 고양시 일산동구 숲속마을2로 25": {
+    "lat": 37.6727987892357,
+    "lng": 126.795798226703,
+    "provider": "kakao_address",
+    "ts": 1770956087.0409355,
+    "raw": {
+      "address": {
+        "address_name": "경기 고양시 일산동구 풍동 1223",
+        "b_code": "4128510700",
+        "h_code": "4128554000",
+        "main_address_no": "1223",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "고양시 일산동구",
+        "region_3depth_h_name": "풍산동",
+        "region_3depth_name": "풍동",
+        "sub_address_no": "",
+        "x": "126.795798226703",
+        "y": "37.6727987892357"
+      },
+      "address_name": "경기 고양시 일산동구 숲속마을2로 25",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 고양시 일산동구 숲속마을2로 25",
+        "building_name": "숲속마을10단지아파트",
+        "main_building_no": "25",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "고양시 일산동구",
+        "region_3depth_name": "풍동",
+        "road_name": "숲속마을2로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "126.795798226703",
+        "y": "37.6727987892357",
+        "zone_no": "10303"
+      },
+      "x": "126.795798226703",
+      "y": "37.6727987892357"
+    }
+  },
+  "충청북도 영동군 영동읍 학산영동로1216": {
+    "lat": 36.1698267930346,
+    "lng": 127.77278973809,
+    "provider": "kakao_address",
+    "ts": 1770956088.2357936,
+    "raw": {
+      "address": {
+        "address_name": "충북 영동군 영동읍 부용리 27",
+        "b_code": "4374025028",
+        "h_code": "4374025000",
+        "main_address_no": "27",
+        "mountain_yn": "N",
+        "region_1depth_name": "충북",
+        "region_2depth_name": "영동군",
+        "region_3depth_h_name": "영동읍",
+        "region_3depth_name": "영동읍 부용리",
+        "sub_address_no": "",
+        "x": "127.77278973809",
+        "y": "36.1698267930346"
+      },
+      "address_name": "충북 영동군 영동읍 학산영동로 1216",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "충북 영동군 영동읍 학산영동로 1216",
+        "building_name": "",
+        "main_building_no": "1216",
+        "region_1depth_name": "충북",
+        "region_2depth_name": "영동군",
+        "region_3depth_name": "영동읍 부용리",
+        "road_name": "학산영동로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.77278973809",
+        "y": "36.1698267930346",
+        "zone_no": "29152"
+      },
+      "x": "127.77278973809",
+      "y": "36.1698267930346"
+    }
+  },
+  "강원 양구군 동면 금강산로 1801 대암회관": {
+    "lat": 38.2122205601514,
+    "lng": 128.039832734036,
+    "provider": "kakao_address",
+    "ts": 1770956089.3685677,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 양구군 동면 임당리 453-3",
+        "b_code": "5180032025",
+        "h_code": "5180032000",
+        "main_address_no": "453",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "양구군",
+        "region_3depth_h_name": "동면",
+        "region_3depth_name": "동면 임당리",
+        "sub_address_no": "3",
+        "x": "128.039832734036",
+        "y": "38.2122205601514"
+      },
+      "address_name": "강원특별자치도 양구군 동면 금강산로 1801",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 양구군 동면 금강산로 1801",
+        "building_name": "대암아파트",
+        "main_building_no": "1801",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "양구군",
+        "region_3depth_name": "동면 임당리",
+        "road_name": "금강산로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "128.039832734036",
+        "y": "38.2122205601514",
+        "zone_no": "24507"
+      },
+      "x": "128.039832734036",
+      "y": "38.2122205601514"
+    }
+  },
+  "화천읍 상승로 8길 25-73": {
+    "lat": 38.111830108476,
+    "lng": 127.706970682772,
+    "provider": "kakao_address",
+    "ts": 1770956089.595616,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 화천군 화천읍 상리 9-7",
+        "b_code": "5179025024",
+        "h_code": "5179025000",
+        "main_address_no": "9",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_h_name": "화천읍",
+        "region_3depth_name": "화천읍 상리",
+        "sub_address_no": "7",
+        "x": "127.706970682772",
+        "y": "38.111830108476"
+      },
+      "address_name": "강원특별자치도 화천군 화천읍 상승로8길 25-73",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 화천군 화천읍 상승로8길 25-73",
+        "building_name": "칠성회관",
+        "main_building_no": "25",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_name": "화천읍 상리",
+        "road_name": "상승로8길",
+        "sub_building_no": "73",
+        "underground_yn": "N",
+        "x": "127.706970682772",
+        "y": "38.111830108476",
+        "zone_no": "24115"
+      },
+      "x": "127.706970682772",
+      "y": "38.111830108476"
+    }
+  },
+  "강원특별자치도 삼척시 근덕면 덕산리 47-3": {
+    "lat": 37.380632701381,
+    "lng": 129.249366484041,
+    "provider": "kakao_address",
+    "ts": 1770956089.8110433,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 삼척시 근덕면 덕산리 47-3",
+        "b_code": "5123031026",
+        "h_code": "5123031000",
+        "main_address_no": "47",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "삼척시",
+        "region_3depth_h_name": "근덕면",
+        "region_3depth_name": "근덕면 덕산리",
+        "sub_address_no": "3",
+        "x": "129.249366484041",
+        "y": "37.380632701381"
+      },
+      "address_name": "강원특별자치도 삼척시 근덕면 덕산리 47-3",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 삼척시 근덕면 덕산해안로 140",
+        "building_name": "",
+        "main_building_no": "140",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "삼척시",
+        "region_3depth_name": "근덕면 덕산리",
+        "road_name": "덕산해안로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "",
+        "y": "",
+        "zone_no": "25934"
+      },
+      "x": "129.249366484041",
+      "y": "37.380632701381"
+    }
+  },
+  "경기도 가평군 조종면 현창로10": {
+    "lat": 37.8159317290374,
+    "lng": 127.349897015098,
+    "provider": "kakao_address",
+    "ts": 1770956090.9708698,
+    "raw": {
+      "address": {
+        "address_name": "경기 가평군 조종면 현리 413-1",
+        "b_code": "4182034521",
+        "h_code": "4182034500",
+        "main_address_no": "413",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "가평군",
+        "region_3depth_h_name": "조종면",
+        "region_3depth_name": "조종면 현리",
+        "sub_address_no": "1",
+        "x": "127.349897015098",
+        "y": "37.8159317290374"
+      },
+      "address_name": "경기 가평군 조종면 현창로 10",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 가평군 조종면 현창로 10",
+        "building_name": "",
+        "main_building_no": "10",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "가평군",
+        "region_3depth_name": "조종면 현리",
+        "road_name": "현창로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.349897015098",
+        "y": "37.8159317290374",
+        "zone_no": "12438"
+      },
+      "x": "127.349897015098",
+      "y": "37.8159317290374"
+    }
+  },
+  "홍천군 홍천읍 송학로5길 12": {
+    "lat": 37.6866883308899,
+    "lng": 127.873934917651,
+    "provider": "kakao_address",
+    "ts": 1770956091.194288,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 홍천군 홍천읍 연봉리 279-4",
+        "b_code": "5172025029",
+        "h_code": "5172025000",
+        "main_address_no": "279",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "홍천군",
+        "region_3depth_h_name": "홍천읍",
+        "region_3depth_name": "홍천읍 연봉리",
+        "sub_address_no": "4",
+        "x": "127.873934917651",
+        "y": "37.6866883308899"
+      },
+      "address_name": "강원특별자치도 홍천군 홍천읍 송학로5길 12",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 홍천군 홍천읍 송학로5길 12",
+        "building_name": "화랑회관",
+        "main_building_no": "12",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "홍천군",
+        "region_3depth_name": "홍천읍 연봉리",
+        "road_name": "송학로5길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.873934917651",
+        "y": "37.6866883308899",
+        "zone_no": "25140"
+      },
+      "x": "127.873934917651",
+      "y": "37.6866883308899"
+    }
+  },
+  "강원도 인제군 남면 신풍길 39": {
+    "lat": 37.958096386014,
+    "lng": 128.071644072039,
+    "provider": "kakao_address",
+    "ts": 1770956091.4126208,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 인제군 남면 신풍리 601",
+        "b_code": "5181031022",
+        "h_code": "5181031000",
+        "main_address_no": "601",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "인제군",
+        "region_3depth_h_name": "남면",
+        "region_3depth_name": "남면 신풍리",
+        "sub_address_no": "",
+        "x": "128.071644072039",
+        "y": "37.958096386014"
+      },
+      "address_name": "강원특별자치도 인제군 남면 신풍길 39",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 인제군 남면 신풍길 39",
+        "building_name": "",
+        "main_building_no": "39",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "인제군",
+        "region_3depth_name": "남면 신풍리",
+        "road_name": "신풍길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "128.071644072039",
+        "y": "37.958096386014",
+        "zone_no": "24651"
+      },
+      "x": "128.071644072039",
+      "y": "37.958096386014"
+    }
+  },
+  "경기도 포천시 영북면 운천리 345-4": {
+    "lat": 38.091263630614,
+    "lng": 127.274977716306,
+    "provider": "kakao_address",
+    "ts": 1770956091.6639996,
+    "raw": {
+      "address": {
+        "address_name": "경기 포천시 영북면 운천리 345-4",
+        "b_code": "4165039021",
+        "h_code": "4165039000",
+        "main_address_no": "345",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "포천시",
+        "region_3depth_h_name": "영북면",
+        "region_3depth_name": "영북면 운천리",
+        "sub_address_no": "4",
+        "x": "127.274977716306",
+        "y": "38.091263630614"
+      },
+      "address_name": "경기 포천시 영북면 운천리 345-4",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "경기 포천시 영북면 영북로 198",
+        "building_name": "전격아파트 및 회관",
+        "main_building_no": "198",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "포천시",
+        "region_3depth_name": "영북면 운천리",
+        "road_name": "영북로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.274981287897",
+        "y": "38.0912737124819",
+        "zone_no": "11104"
+      },
+      "x": "127.274977716306",
+      "y": "38.091263630614"
+    }
+  },
+  "부산광역시 해운대구 좌동순환로 15번길 24": {
+    "lat": 35.1696324296885,
+    "lng": 129.164072306595,
+    "provider": "kakao_address",
+    "ts": 1770956092.3763325,
+    "raw": {
+      "address": {
+        "address_name": "부산 해운대구 좌동 1363-1",
+        "b_code": "2635010700",
+        "h_code": "2635055300",
+        "main_address_no": "1363",
+        "mountain_yn": "N",
+        "region_1depth_name": "부산",
+        "region_2depth_name": "해운대구",
+        "region_3depth_h_name": "좌3동",
+        "region_3depth_name": "좌동",
+        "sub_address_no": "1",
+        "x": "129.164072306595",
+        "y": "35.1696324296885"
+      },
+      "address_name": "부산 해운대구 좌동순환로15번길 24",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "부산 해운대구 좌동순환로15번길 24",
+        "building_name": "장산마을아파트",
+        "main_building_no": "24",
+        "region_1depth_name": "부산",
+        "region_2depth_name": "해운대구",
+        "region_3depth_name": "좌동",
+        "road_name": "좌동순환로15번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "129.164072306595",
+        "y": "35.1696324296885",
+        "zone_no": "48084"
+      },
+      "x": "129.164072306595",
+      "y": "35.1696324296885"
+    }
+  },
+  "강원도 철원군 동송읍 금학로 121번길 15": {
+    "lat": 38.1994881981185,
+    "lng": 127.220993090474,
+    "provider": "kakao_address",
+    "ts": 1770956092.5956745,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 철원군 동송읍 이평리 767-8",
+        "b_code": "5178025921",
+        "h_code": "5178025900",
+        "main_address_no": "767",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "철원군",
+        "region_3depth_h_name": "동송읍",
+        "region_3depth_name": "동송읍 이평리",
+        "sub_address_no": "8",
+        "x": "127.220993090474",
+        "y": "38.1994881981185"
+      },
+      "address_name": "강원특별자치도 철원군 동송읍 금학로121번길 15",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 철원군 동송읍 금학로121번길 15",
+        "building_name": "청성회관",
+        "main_building_no": "15",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "철원군",
+        "region_3depth_name": "동송읍 이평리",
+        "road_name": "금학로121번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.220993090474",
+        "y": "38.1994881981185",
+        "zone_no": "24020"
+      },
+      "x": "127.220993090474",
+      "y": "38.1994881981185"
+    }
+  },
+  "충남 논산시 노성면 송당리 186-1": {
+    "lat": 36.2773753542416,
+    "lng": 127.114128243184,
+    "provider": "kakao_address",
+    "ts": 1770956092.8421435,
+    "raw": {
+      "address": {
+        "address_name": "충남 논산시 노성면 송당리 186-1",
+        "b_code": "4423033023",
+        "h_code": "4423033000",
+        "main_address_no": "186",
+        "mountain_yn": "N",
+        "region_1depth_name": "충남",
+        "region_2depth_name": "논산시",
+        "region_3depth_h_name": "노성면",
+        "region_3depth_name": "노성면 송당리",
+        "sub_address_no": "1",
+        "x": "127.114128243184",
+        "y": "36.2773753542416"
+      },
+      "address_name": "충남 논산시 노성면 송당리 186-1",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "충남 논산시 노성면 노성로 430",
+        "building_name": "",
+        "main_building_no": "430",
+        "region_1depth_name": "충남",
+        "region_2depth_name": "논산시",
+        "region_3depth_name": "노성면 송당리",
+        "road_name": "노성로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.112198672182",
+        "y": "36.2763948813412",
+        "zone_no": "32902"
+      },
+      "x": "127.114128243184",
+      "y": "36.2773753542416"
+    }
+  },
+  "철원군 갈말읍 문혜리853": {
+    "lat": 38.1811961570371,
+    "lng": 127.323962898585,
+    "provider": "kakao_address",
+    "ts": 1770956093.0662518,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 철원군 갈말읍 문혜리 853",
+        "b_code": "5178025625",
+        "h_code": "5178025600",
+        "main_address_no": "853",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "철원군",
+        "region_3depth_h_name": "갈말읍",
+        "region_3depth_name": "갈말읍 문혜리",
+        "sub_address_no": "",
+        "x": "127.323962898585",
+        "y": "38.1811961570371"
+      },
+      "address_name": "강원특별자치도 철원군 갈말읍 문혜리 853",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 철원군 갈말읍 두루미로 41",
+        "building_name": "",
+        "main_building_no": "41",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "철원군",
+        "region_3depth_name": "갈말읍 문혜리",
+        "road_name": "두루미로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.324048617836",
+        "y": "38.1811714160858",
+        "zone_no": "24031"
+      },
+      "x": "127.323962898585",
+      "y": "38.1811961570371"
+    }
+  },
+  "광주시 오포읍 양벌로353번길 30": {
+    "lat": 37.366065351314,
+    "lng": 127.24779446305,
+    "provider": "kakao_address",
+    "ts": 1770956094.2865422,
+    "raw": {
+      "address": {
+        "address_name": "경기 광주시 양벌동 924-4",
+        "b_code": "4161012000",
+        "h_code": "4161059000",
+        "main_address_no": "924",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "광주시",
+        "region_3depth_h_name": "오포2동",
+        "region_3depth_name": "양벌동",
+        "sub_address_no": "4",
+        "x": "127.24779446305",
+        "y": "37.366065351314"
+      },
+      "address_name": "경기 광주시 양벌로353번길 30",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 광주시 양벌로353번길 30",
+        "building_name": "",
+        "main_building_no": "30",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "광주시",
+        "region_3depth_name": "양벌동",
+        "road_name": "양벌로353번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.24779446305",
+        "y": "37.366065351314",
+        "zone_no": "12798"
+      },
+      "x": "127.24779446305",
+      "y": "37.366065351314"
+    }
+  },
+  "충청남도 계룡시 신도안면 석계리 472-1": {
+    "lat": 36.3241528777992,
+    "lng": 127.230280130465,
+    "provider": "kakao_address",
+    "ts": 1770956094.5091345,
+    "raw": {
+      "address": {
+        "address_name": "충남 계룡시 신도안면 석계리 472-1",
+        "b_code": "4425033024",
+        "h_code": "4425033000",
+        "main_address_no": "472",
+        "mountain_yn": "N",
+        "region_1depth_name": "충남",
+        "region_2depth_name": "계룡시",
+        "region_3depth_h_name": "신도안면",
+        "region_3depth_name": "신도안면 석계리",
+        "sub_address_no": "1",
+        "x": "127.230280130465",
+        "y": "36.3241528777992"
+      },
+      "address_name": "충남 계룡시 신도안면 석계리 472-1",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "충남 계룡시 신도안면 계룡대로 663",
+        "building_name": "",
+        "main_building_no": "663",
+        "region_1depth_name": "충남",
+        "region_2depth_name": "계룡시",
+        "region_3depth_name": "신도안면 석계리",
+        "road_name": "계룡대로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "",
+        "y": "",
+        "zone_no": "32800"
+      },
+      "x": "127.230280130465",
+      "y": "36.3241528777992"
+    }
+  },
+  "경기도 이천시 대포동 진상미로 1700-29": {
+    "lat": 37.203420982652,
+    "lng": 127.460964762526,
+    "provider": "kakao_address",
+    "ts": 1770956095.7311497,
+    "raw": {
+      "address": {
+        "address_name": "경기 이천시 대포동 3",
+        "b_code": "4150011300",
+        "h_code": "4150052000",
+        "main_address_no": "3",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "이천시",
+        "region_3depth_h_name": "중리동",
+        "region_3depth_name": "대포동",
+        "sub_address_no": "",
+        "x": "127.460964762526",
+        "y": "37.203420982652"
+      },
+      "address_name": "경기 이천시 진상미로 1700-29",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 이천시 진상미로 1700-29",
+        "building_name": "비승아파트",
+        "main_building_no": "1700",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "이천시",
+        "region_3depth_name": "대포동",
+        "road_name": "진상미로",
+        "sub_building_no": "29",
+        "underground_yn": "N",
+        "x": "127.460964762526",
+        "y": "37.203420982652",
+        "zone_no": "17400"
+      },
+      "x": "127.460964762526",
+      "y": "37.203420982652"
+    }
+  },
+  "전남 담양군 담양읍 매화길9": {
+    "lat": 35.2988966623506,
+    "lng": 126.998509372285,
+    "provider": "kakao_address",
+    "ts": 1770956096.0162194,
+    "raw": {
+      "address": {
+        "address_name": "전남 담양군 담양읍 오계리 294",
+        "b_code": "4671025032",
+        "h_code": "4671025000",
+        "main_address_no": "294",
+        "mountain_yn": "N",
+        "region_1depth_name": "전남",
+        "region_2depth_name": "담양군",
+        "region_3depth_h_name": "담양읍",
+        "region_3depth_name": "담양읍 오계리",
+        "sub_address_no": "",
+        "x": "126.998509372285",
+        "y": "35.2988966623506"
+      },
+      "address_name": "전남 담양군 담양읍 매화길 9",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "전남 담양군 담양읍 매화길 9",
+        "building_name": "매화아파트",
+        "main_building_no": "9",
+        "region_1depth_name": "전남",
+        "region_2depth_name": "담양군",
+        "region_3depth_name": "담양읍 오계리",
+        "road_name": "매화길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "126.998509372285",
+        "y": "35.2988966623506",
+        "zone_no": "57362"
+      },
+      "x": "126.998509372285",
+      "y": "35.2988966623506"
+    }
+  },
+  "경기도 고양시 덕양구 혜음로73": {
+    "lat": 37.7069733896399,
+    "lng": 126.90211486896,
+    "provider": "kakao_address",
+    "ts": 1770956096.260227,
+    "raw": {
+      "address": {
+        "address_name": "경기 고양시 덕양구 고양동 32",
+        "b_code": "4128111600",
+        "h_code": "4128159000",
+        "main_address_no": "32",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "고양시 덕양구",
+        "region_3depth_h_name": "고양동",
+        "region_3depth_name": "고양동",
+        "sub_address_no": "",
+        "x": "126.90211486896",
+        "y": "37.7069733896399"
+      },
+      "address_name": "경기 고양시 덕양구 혜음로 73",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 고양시 덕양구 혜음로 73",
+        "building_name": "",
+        "main_building_no": "73",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "고양시 덕양구",
+        "region_3depth_name": "고양동",
+        "road_name": "혜음로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "126.90211486896",
+        "y": "37.7069733896399",
+        "zone_no": "10272"
+      },
+      "x": "126.90211486896",
+      "y": "37.7069733896399"
+    }
+  },
+  "강원도 화천군 상서면 영서로 7739-24 백암회관": {
+    "lat": 38.2099933529211,
+    "lng": 127.662502027698,
+    "provider": "kakao_address",
+    "ts": 1770956096.514584,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 화천군 상서면 산양리 737",
+        "b_code": "5179033028",
+        "h_code": "5179033000",
+        "main_address_no": "737",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_h_name": "상서면",
+        "region_3depth_name": "상서면 산양리",
+        "sub_address_no": "",
+        "x": "127.662502027698",
+        "y": "38.2099933529211"
+      },
+      "address_name": "강원특별자치도 화천군 상서면 영서로 7739",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 화천군 상서면 영서로 7739",
+        "building_name": "DMZ시네마, 다목적체육관",
+        "main_building_no": "7739",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_name": "상서면 산양리",
+        "road_name": "영서로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.662502027698",
+        "y": "38.2099933529211",
+        "zone_no": "24101"
+      },
+      "x": "127.662502027698",
+      "y": "38.2099933529211"
+    }
+  },
+  "대구시북구 구리로 183-35": {
+    "lat": 35.9483171344609,
+    "lng": 128.57209662724,
+    "provider": "kakao_address",
+    "ts": 1770956096.7380621,
+    "raw": {
+      "address": {
+        "address_name": "대구 북구 국우동 747",
+        "b_code": "2723012200",
+        "h_code": "2723080000",
+        "main_address_no": "747",
+        "mountain_yn": "N",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "북구",
+        "region_3depth_h_name": "국우동",
+        "region_3depth_name": "국우동",
+        "sub_address_no": "",
+        "x": "128.57209662724",
+        "y": "35.9483171344609"
+      },
+      "address_name": "대구 북구 구리로 183-35",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대구 북구 구리로 183-35",
+        "building_name": "",
+        "main_building_no": "183",
+        "region_1depth_name": "대구",
+        "region_2depth_name": "북구",
+        "region_3depth_name": "국우동",
+        "road_name": "구리로",
+        "sub_building_no": "35",
+        "underground_yn": "N",
+        "x": "128.57209662724",
+        "y": "35.9483171344609",
+        "zone_no": "41408"
+      },
+      "x": "128.57209662724",
+      "y": "35.9483171344609"
+    }
+  },
+  "포천시 이동면 장암리 240-2번지 승진회관": {
+    "lat": 38.0312138820673,
+    "lng": 127.367037482986,
+    "provider": "kakao_address",
+    "ts": 1770956096.9652407,
+    "raw": {
+      "address": {
+        "address_name": "경기 포천시 이동면 장암리 240-2",
+        "b_code": "4165038021",
+        "h_code": "4165038000",
+        "main_address_no": "240",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "포천시",
+        "region_3depth_h_name": "이동면",
+        "region_3depth_name": "이동면 장암리",
+        "sub_address_no": "2",
+        "x": "127.367037482986",
+        "y": "38.0312138820673"
+      },
+      "address_name": "경기 포천시 이동면 장암리 240-2",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "경기 포천시 이동면 화동로 2056",
+        "building_name": "",
+        "main_building_no": "2056",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "포천시",
+        "region_3depth_name": "이동면 장암리",
+        "road_name": "화동로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "",
+        "y": "",
+        "zone_no": "11111"
+      },
+      "x": "127.367037482986",
+      "y": "38.0312138820673"
+    }
+  },
+  "강원도 화천군 사내면 복주산길 55, 명월회관": {
+    "lat": 38.1410431294936,
+    "lng": 127.522907368425,
+    "provider": "kakao_address",
+    "ts": 1770956097.2043297,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 화천군 사내면 명월리 82-1",
+        "b_code": "5179034023",
+        "h_code": "5179034000",
+        "main_address_no": "82",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_h_name": "사내면",
+        "region_3depth_name": "사내면 명월리",
+        "sub_address_no": "1",
+        "x": "127.522907368425",
+        "y": "38.1410431294936"
+      },
+      "address_name": "강원특별자치도 화천군 사내면 복주산길 55",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 화천군 사내면 복주산길 55",
+        "building_name": "15사단 복지회관",
+        "main_building_no": "55",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_name": "사내면 명월리",
+        "road_name": "복주산길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.522907368425",
+        "y": "38.1410431294936",
+        "zone_no": "24148"
+      },
+      "x": "127.522907368425",
+      "y": "38.1410431294936"
+    }
+  },
+  "강원도 인제군 서화면 천도로 152번길11": {
+    "lat": 38.2254602058694,
+    "lng": 128.211272467617,
+    "provider": "kakao_address",
+    "ts": 1770956097.4526768,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 인제군 서화면 천도리 536-4",
+        "b_code": "5181034021",
+        "h_code": "5181034000",
+        "main_address_no": "536",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "인제군",
+        "region_3depth_h_name": "서화면",
+        "region_3depth_name": "서화면 천도리",
+        "sub_address_no": "4",
+        "x": "128.211272467617",
+        "y": "38.2254602058694"
+      },
+      "address_name": "강원특별자치도 인제군 서화면 천도로152번길 11",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 인제군 서화면 천도로152번길 11",
+        "building_name": "",
+        "main_building_no": "11",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "인제군",
+        "region_3depth_name": "서화면 천도리",
+        "road_name": "천도로152번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "128.211272467617",
+        "y": "38.2254602058694",
+        "zone_no": "24601"
+      },
+      "x": "128.211272467617",
+      "y": "38.2254602058694"
+    }
+  },
+  "경상남도 창원시 의창구 동읍 용잠리 797-7": {
+    "lat": 35.2806029552879,
+    "lng": 128.680030295221,
+    "provider": "kakao_address",
+    "ts": 1770956098.177368,
+    "raw": {
+      "address": {
+        "address_name": "경남 창원시 의창구 동읍 용잠리 797-7",
+        "b_code": "4812125032",
+        "h_code": "4812125000",
+        "main_address_no": "797",
+        "mountain_yn": "N",
+        "region_1depth_name": "경남",
+        "region_2depth_name": "창원시 의창구",
+        "region_3depth_h_name": "동읍",
+        "region_3depth_name": "동읍 용잠리",
+        "sub_address_no": "7",
+        "x": "128.680030295221",
+        "y": "35.2806029552879"
+      },
+      "address_name": "경남 창원시 의창구 동읍 용잠리 797-7",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "경남 창원시 의창구 동읍 의창대로 783",
+        "building_name": "",
+        "main_building_no": "783",
+        "region_1depth_name": "경남",
+        "region_2depth_name": "창원시 의창구",
+        "region_3depth_name": "동읍 용잠리",
+        "road_name": "의창대로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "",
+        "y": "",
+        "zone_no": "51128"
+      },
+      "x": "128.680030295221",
+      "y": "35.2806029552879"
+    }
+  },
+  "강원도 춘천시 영서로 2780 -1 두미르레스텔": {
+    "lat": 37.902383274275,
+    "lng": 127.72929852456,
+    "provider": "kakao_address",
+    "ts": 1770956098.3958654,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 춘천시 우두동 659-11",
+        "b_code": "5111011800",
+        "h_code": "5111070500",
+        "main_address_no": "659",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "춘천시",
+        "region_3depth_h_name": "신사우동",
+        "region_3depth_name": "우두동",
+        "sub_address_no": "11",
+        "x": "127.72929852456",
+        "y": "37.902383274275"
+      },
+      "address_name": "강원특별자치도 춘천시 영서로 2780",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 춘천시 영서로 2780",
+        "building_name": "두미르레스텔",
+        "main_building_no": "2780",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "춘천시",
+        "region_3depth_name": "우두동",
+        "road_name": "영서로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.72929852456",
+        "y": "37.902383274275",
+        "zone_no": "24226"
+      },
+      "x": "127.72929852456",
+      "y": "37.902383274275"
+    }
+  },
+  "경기도 양주시 남면 매곡리67-1 / t맵 검색어 :감악산회관": {
+    "lat": 37.8964267660991,
+    "lng": 126.96800690315,
+    "provider": "kakao_address",
+    "ts": 1770956098.642012,
+    "raw": {
+      "address": {
+        "address_name": "경기 양주시 남면 매곡리 67-1",
+        "b_code": "4163032023",
+        "h_code": "4163032000",
+        "main_address_no": "67",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "양주시",
+        "region_3depth_h_name": "남면",
+        "region_3depth_name": "남면 매곡리",
+        "sub_address_no": "1",
+        "x": "126.96800690315",
+        "y": "37.8964267660991"
+      },
+      "address_name": "경기 양주시 남면 매곡리 67-1",
+      "address_type": "REGION_ADDR",
+      "road_address": {},
+      "x": "126.96800690315",
+      "y": "37.8964267660991"
+    }
+  },
+  "경기도 파주시 적성면 칠중1길 65 / 내비게이션 주소 : 비룡회관": {
+    "lat": 37.9514877067492,
+    "lng": 126.919570188547,
+    "provider": "kakao_address",
+    "ts": 1770956098.875398,
+    "raw": {
+      "address": {
+        "address_name": "경기 파주시 적성면 마지리 67-2",
+        "b_code": "4148037035",
+        "h_code": "4148037000",
+        "main_address_no": "67",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "파주시",
+        "region_3depth_h_name": "적성면",
+        "region_3depth_name": "적성면 마지리",
+        "sub_address_no": "2",
+        "x": "126.919570188547",
+        "y": "37.9514877067492"
+      },
+      "address_name": "경기 파주시 적성면 칠중1길 65",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 파주시 적성면 칠중1길 65",
+        "building_name": "",
+        "main_building_no": "65",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "파주시",
+        "region_3depth_name": "적성면 마지리",
+        "road_name": "칠중1길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "126.919570188547",
+        "y": "37.9514877067492",
+        "zone_no": "10803"
+      },
+      "x": "126.919570188547",
+      "y": "37.9514877067492"
+    }
+  },
+  "세종특별자치시 금남면 채나무길 64": {
+    "lat": 36.4270714648921,
+    "lng": 127.270027003565,
+    "provider": "kakao_address",
+    "ts": 1770956099.0947359,
+    "raw": {
+      "address": {
+        "address_name": "세종특별자치시 금남면 국곡리 149",
+        "b_code": "3611034044",
+        "h_code": "3611034000",
+        "main_address_no": "149",
+        "mountain_yn": "N",
+        "region_1depth_name": "세종특별자치시",
+        "region_2depth_name": "",
+        "region_3depth_h_name": "금남면",
+        "region_3depth_name": "금남면 국곡리",
+        "sub_address_no": "",
+        "x": "127.270027003565",
+        "y": "36.4270714648921"
+      },
+      "address_name": "세종특별자치시 금남면 채나무길 64",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "세종특별자치시 금남면 채나무길 64",
+        "building_name": "백룡회관",
+        "main_building_no": "64",
+        "region_1depth_name": "세종특별자치시",
+        "region_2depth_name": "",
+        "region_3depth_name": "금남면 국곡리",
+        "road_name": "채나무길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.270027003565",
+        "y": "36.4270714648921",
+        "zone_no": "30086"
+      },
+      "x": "127.270027003565",
+      "y": "36.4270714648921"
+    }
+  },
+  "광주광역시 북구 삼각동 601-3/ 예약확정시 [예약확정] 문자발송, ★예약일 일주일 전 확정/탈락 통보★": {
+    "lat": 35.1962722581795,
+    "lng": 126.904161283492,
+    "provider": "kakao_address",
+    "ts": 1770956099.3313663,
+    "raw": {
+      "address": {
+        "address_name": "광주 북구 삼각동 601-3",
+        "b_code": "2917011600",
+        "h_code": "2917066600",
+        "main_address_no": "601",
+        "mountain_yn": "N",
+        "region_1depth_name": "광주",
+        "region_2depth_name": "북구",
+        "region_3depth_h_name": "삼각동",
+        "region_3depth_name": "삼각동",
+        "sub_address_no": "3",
+        "x": "126.904161283492",
+        "y": "35.1962722581795"
+      },
+      "address_name": "광주 북구 삼각동 601-3",
+      "address_type": "REGION_ADDR",
+      "road_address": {},
+      "x": "126.904161283492",
+      "y": "35.1962722581795"
+    }
+  },
+  "경상남도 함안군 군북면 소포리 1643": {
+    "lat": 35.2638196374831,
+    "lng": 128.354805515484,
+    "provider": "kakao_address",
+    "ts": 1770956099.5520234,
+    "raw": {
+      "address": {
+        "address_name": "경남 함안군 군북면 소포리 1643",
+        "b_code": "4873032023",
+        "h_code": "4873032000",
+        "main_address_no": "1643",
+        "mountain_yn": "N",
+        "region_1depth_name": "경남",
+        "region_2depth_name": "함안군",
+        "region_3depth_h_name": "군북면",
+        "region_3depth_name": "군북면 소포리",
+        "sub_address_no": "",
+        "x": "128.354805515484",
+        "y": "35.2638196374831"
+      },
+      "address_name": "경남 함안군 군북면 소포리 1643",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "경남 함안군 군북면 함마대로 848",
+        "building_name": "",
+        "main_building_no": "848",
+        "region_1depth_name": "경남",
+        "region_2depth_name": "함안군",
+        "region_3depth_name": "군북면 소포리",
+        "road_name": "함마대로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "",
+        "y": "",
+        "zone_no": "52064"
+      },
+      "x": "128.354805515484",
+      "y": "35.2638196374831"
+    }
+  },
+  "대전광역시 유성구 자운로 221번길 98": {
+    "lat": 36.4131601368843,
+    "lng": 127.340816278302,
+    "provider": "kakao_address",
+    "ts": 1770956099.7887886,
+    "raw": {
+      "address": {
+        "address_name": "대전 유성구 신봉동 5-2",
+        "b_code": "3020013500",
+        "h_code": "3020055000",
+        "main_address_no": "5",
+        "mountain_yn": "N",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_h_name": "신성동",
+        "region_3depth_name": "신봉동",
+        "sub_address_no": "2",
+        "x": "127.340816278302",
+        "y": "36.4131601368843"
+      },
+      "address_name": "대전 유성구 자운로221번길 98",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대전 유성구 자운로221번길 98",
+        "building_name": "창조레스텔",
+        "main_building_no": "98",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_name": "신봉동",
+        "road_name": "자운로221번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.340816278302",
+        "y": "36.4131601368843",
+        "zone_no": "34059"
+      },
+      "x": "127.340816278302",
+      "y": "36.4131601368843"
+    }
+  },
+  "대전광역시 유성구 자운로 97번길 290": {
+    "lat": 36.4082255602324,
+    "lng": 127.337886717054,
+    "provider": "kakao_address",
+    "ts": 1770956100.0110245,
+    "raw": {
+      "address": {
+        "address_name": "대전 유성구 신봉동 154-1",
+        "b_code": "3020013500",
+        "h_code": "3020055000",
+        "main_address_no": "154",
+        "mountain_yn": "N",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_h_name": "신성동",
+        "region_3depth_name": "신봉동",
+        "sub_address_no": "1",
+        "x": "127.337886717054",
+        "y": "36.4082255602324"
+      },
+      "address_name": "대전 유성구 자운로97번길 290",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대전 유성구 자운로97번길 290",
+        "building_name": "자운레스텔",
+        "main_building_no": "290",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_name": "신봉동",
+        "road_name": "자운로97번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.337886717054",
+        "y": "36.4082255602324",
+        "zone_no": "34059"
+      },
+      "x": "127.337886717054",
+      "y": "36.4082255602324"
+    }
+  },
+  "인천광역시 남동구 만의골로228 소래산 사랑채": {
+    "lat": 37.4629830558473,
+    "lng": 126.772873902748,
+    "provider": "kakao_address",
+    "ts": 1770956100.7257087,
+    "raw": {
+      "address": {
+        "address_name": "인천 남동구 장수동 산 1-28",
+        "b_code": "2820010400",
+        "h_code": "2820065000",
+        "main_address_no": "1",
+        "mountain_yn": "Y",
+        "region_1depth_name": "인천",
+        "region_2depth_name": "남동구",
+        "region_3depth_h_name": "장수서창동",
+        "region_3depth_name": "장수동",
+        "sub_address_no": "28",
+        "x": "126.772873902748",
+        "y": "37.4629830558473"
+      },
+      "address_name": "인천 남동구 만의골로 228",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "인천 남동구 만의골로 228",
+        "building_name": "",
+        "main_building_no": "228",
+        "region_1depth_name": "인천",
+        "region_2depth_name": "남동구",
+        "region_3depth_name": "장수동",
+        "road_name": "만의골로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "126.772873902748",
+        "y": "37.4629830558473",
+        "zone_no": "21533"
+      },
+      "x": "126.772873902748",
+      "y": "37.4629830558473"
+    }
+  },
+  "대전광역시 유성구 반석동 336 / 검색 후 바로 옆 군수사령부 정문 전광판을 통과 후 좌측에 위치": {
+    "lat": 36.3902428091645,
+    "lng": 127.303736155591,
+    "provider": "kakao_address",
+    "ts": 1770956100.969657,
+    "raw": {
+      "address": {
+        "address_name": "대전 유성구 반석동 336",
+        "b_code": "3020013900",
+        "h_code": "3020054800",
+        "main_address_no": "336",
+        "mountain_yn": "N",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_h_name": "노은3동",
+        "region_3depth_name": "반석동",
+        "sub_address_no": "",
+        "x": "127.303736155591",
+        "y": "36.3902428091645"
+      },
+      "address_name": "대전 유성구 반석동 336",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "대전 유성구 반석로 100",
+        "building_name": "",
+        "main_building_no": "100",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_name": "반석동",
+        "road_name": "반석로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.303793079242",
+        "y": "36.3902916881097",
+        "zone_no": "34065"
+      },
+      "x": "127.303736155591",
+      "y": "36.3902428091645"
+    }
+  },
+  "경기도 남양주시 진접읍 광릉내로 82번길 23": {
+    "lat": 37.7453108374533,
+    "lng": 127.206239709568,
+    "provider": "kakao_address",
+    "ts": 1770956101.203689,
+    "raw": {
+      "address": {
+        "address_name": "경기 남양주시 진접읍 팔야리 760-6",
+        "b_code": "4136025326",
+        "h_code": "4136025300",
+        "main_address_no": "760",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "남양주시",
+        "region_3depth_h_name": "진접읍",
+        "region_3depth_name": "진접읍 팔야리",
+        "sub_address_no": "6",
+        "x": "127.206239709568",
+        "y": "37.7453108374533"
+      },
+      "address_name": "경기 남양주시 진접읍 광릉내로82번길 23",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 남양주시 진접읍 광릉내로82번길 23",
+        "building_name": "철마레스텔",
+        "main_building_no": "23",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "남양주시",
+        "region_3depth_name": "진접읍 팔야리",
+        "road_name": "광릉내로82번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.206239709568",
+        "y": "37.7453108374533",
+        "zone_no": "12019"
+      },
+      "x": "127.206239709568",
+      "y": "37.7453108374533"
+    }
+  },
+  "인천광역시 중구 을왕동 용유서로 423번길 109 충의휴양소": {
+    "lat": 37.4619901329573,
+    "lng": 126.360470968129,
+    "provider": "kakao_keyword",
+    "ts": 1770956101.6536005,
+    "raw": {
+      "address_name": "인천 중구 을왕동 893-45",
+      "category_group_code": "AD5",
+      "category_group_name": "숙박",
+      "category_name": "여행 > 숙박",
+      "distance": "",
+      "id": "844556774",
+      "phone": "",
+      "place_name": "충의휴양소",
+      "place_url": "http://place.map.kakao.com/844556774",
+      "road_address_name": "인천 중구 용유서로423번길 109",
+      "x": "126.360470968129",
+      "y": "37.4619901329573"
+    }
+  },
+  "강원도 인제군 기린면 내린천로 3924-72 산악코스텔": {
+    "lat": 37.9468813056437,
+    "lng": 128.324222067488,
+    "provider": "kakao_address",
+    "ts": 1770956101.8984978,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 인제군 기린면 현리 181",
+        "b_code": "5181033021",
+        "h_code": "5181033000",
+        "main_address_no": "181",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "인제군",
+        "region_3depth_h_name": "기린면",
+        "region_3depth_name": "기린면 현리",
+        "sub_address_no": "",
+        "x": "128.324222067488",
+        "y": "37.9468813056437"
+      },
+      "address_name": "강원특별자치도 인제군 기린면 내린천로 3924-72",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 인제군 기린면 내린천로 3924-72",
+        "building_name": "기린대아파트",
+        "main_building_no": "3924",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "인제군",
+        "region_3depth_name": "기린면 현리",
+        "road_name": "내린천로",
+        "sub_building_no": "72",
+        "underground_yn": "N",
+        "x": "128.324222067488",
+        "y": "37.9468813056437",
+        "zone_no": "24657"
+      },
+      "x": "128.324222067488",
+      "y": "37.9468813056437"
+    }
+  },
+  "상서면 구둔지길 34-9": {
+    "lat": 38.1167275098939,
+    "lng": 127.679885782089,
+    "provider": "kakao_address",
+    "ts": 1770956102.1315727,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 화천군 상서면 신풍리 126-1",
+        "b_code": "5179033021",
+        "h_code": "5179033000",
+        "main_address_no": "126",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_h_name": "상서면",
+        "region_3depth_name": "상서면 신풍리",
+        "sub_address_no": "1",
+        "x": "127.679885782089",
+        "y": "38.1167275098939"
+      },
+      "address_name": "강원특별자치도 화천군 상서면 구둔지길 34-9",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 화천군 상서면 구둔지길 34-9",
+        "building_name": "복지회관",
+        "main_building_no": "34",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "화천군",
+        "region_3depth_name": "상서면 신풍리",
+        "road_name": "구둔지길",
+        "sub_building_no": "9",
+        "underground_yn": "N",
+        "x": "127.679885782089",
+        "y": "38.1167275098939",
+        "zone_no": "24122"
+      },
+      "x": "127.679885782089",
+      "y": "38.1167275098939"
+    }
+  },
+  "강원도 원주시 소초면 흥양로 220번지": {
+    "lat": 37.3813273233699,
+    "lng": 127.969129158761,
+    "provider": "kakao_address",
+    "ts": 1770956102.3607123,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 원주시 소초면 흥양리 1754-4",
+        "b_code": "5113031024",
+        "h_code": "5113031000",
+        "main_address_no": "1754",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "원주시",
+        "region_3depth_h_name": "소초면",
+        "region_3depth_name": "소초면 흥양리",
+        "sub_address_no": "4",
+        "x": "127.969129158761",
+        "y": "37.3813273233699"
+      },
+      "address_name": "강원특별자치도 원주시 소초면 흥양로 220",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 원주시 소초면 흥양로 220",
+        "building_name": "",
+        "main_building_no": "220",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "원주시",
+        "region_3depth_name": "소초면 흥양리",
+        "road_name": "흥양로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.969129158761",
+        "y": "37.3813273233699",
+        "zone_no": "26310"
+      },
+      "x": "127.969129158761",
+      "y": "37.3813273233699"
+    }
+  },
+  "경기도 용인시 처인구 금학로235번길 26, 선봉레스텔": {
+    "lat": 37.2404220651321,
+    "lng": 127.191299450834,
+    "provider": "kakao_address",
+    "ts": 1770956102.5994232,
+    "raw": {
+      "address": {
+        "address_name": "경기 용인시 처인구 역북동 316-1",
+        "b_code": "4146110200",
+        "h_code": "4146152500",
+        "main_address_no": "316",
+        "mountain_yn": "N",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "용인시 처인구",
+        "region_3depth_h_name": "역북동",
+        "region_3depth_name": "역북동",
+        "sub_address_no": "1",
+        "x": "127.191299450834",
+        "y": "37.2404220651321"
+      },
+      "address_name": "경기 용인시 처인구 금학로235번길 26",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "경기 용인시 처인구 금학로235번길 26",
+        "building_name": "온누리마을",
+        "main_building_no": "26",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "용인시 처인구",
+        "region_3depth_name": "역북동",
+        "road_name": "금학로235번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.191299450834",
+        "y": "37.2404220651321",
+        "zone_no": "17046"
+      },
+      "x": "127.191299450834",
+      "y": "37.2404220651321"
+    }
+  },
+  "대전광역시 유성구 온천로81": {
+    "lat": 36.3551304956729,
+    "lng": 127.347881127961,
+    "provider": "kakao_address",
+    "ts": 1770956102.88657,
+    "raw": {
+      "address": {
+        "address_name": "대전 유성구 봉명동 539-1",
+        "b_code": "3020011100",
+        "h_code": "3020053000",
+        "main_address_no": "539",
+        "mountain_yn": "N",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_h_name": "온천1동",
+        "region_3depth_name": "봉명동",
+        "sub_address_no": "1",
+        "x": "127.347881127961",
+        "y": "36.3551304956729"
+      },
+      "address_name": "대전 유성구 온천로 81",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "대전 유성구 온천로 81",
+        "building_name": "계룡스파텔",
+        "main_building_no": "81",
+        "region_1depth_name": "대전",
+        "region_2depth_name": "유성구",
+        "region_3depth_name": "봉명동",
+        "road_name": "온천로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.347881127961",
+        "y": "36.3551304956729",
+        "zone_no": "34186"
+      },
+      "x": "127.347881127961",
+      "y": "36.3551304956729"
+    }
+  },
+  "강원도 원주시 단구동 539번지": {
+    "lat": 37.3346926760155,
+    "lng": 127.959327920819,
+    "provider": "kakao_address",
+    "ts": 1770956103.131494,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 원주시 단구동 539",
+        "b_code": "5113010700",
+        "h_code": "5113055000",
+        "main_address_no": "539",
+        "mountain_yn": "N",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "원주시",
+        "region_3depth_h_name": "단구동",
+        "region_3depth_name": "단구동",
+        "sub_address_no": "",
+        "x": "127.959327920819",
+        "y": "37.3346926760155"
+      },
+      "address_name": "강원특별자치도 원주시 단구동 539",
+      "address_type": "REGION_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 원주시 치악로 1692",
+        "building_name": "신통일아파트",
+        "main_building_no": "1692",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "원주시",
+        "region_3depth_name": "단구동",
+        "road_name": "치악로",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.961028309143",
+        "y": "37.3365561034611",
+        "zone_no": "26445"
+      },
+      "x": "127.959327920819",
+      "y": "37.3346926760155"
+    }
+  },
+  "강원도 홍천군 남면 시동안로 227번길 25": {
+    "lat": 37.5919318127665,
+    "lng": 127.83329738295,
+    "provider": "kakao_address",
+    "ts": 1770956103.3516932,
+    "raw": {
+      "address": {
+        "address_name": "강원특별자치도 홍천군 남면 시동리 산 92-5",
+        "b_code": "5172036024",
+        "h_code": "5172036000",
+        "main_address_no": "92",
+        "mountain_yn": "Y",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "홍천군",
+        "region_3depth_h_name": "남면",
+        "region_3depth_name": "남면 시동리",
+        "sub_address_no": "5",
+        "x": "127.83329738295",
+        "y": "37.5919318127665"
+      },
+      "address_name": "강원특별자치도 홍천군 남면 시동안로227번길 25",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "강원특별자치도 홍천군 남면 시동안로227번길 25",
+        "building_name": "",
+        "main_building_no": "25",
+        "region_1depth_name": "강원특별자치도",
+        "region_2depth_name": "홍천군",
+        "region_3depth_name": "남면 시동리",
+        "road_name": "시동안로227번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "127.83329738295",
+        "y": "37.5919318127665",
+        "zone_no": "25109"
+      },
+      "x": "127.83329738295",
+      "y": "37.5919318127665"
+    }
+  },
+  "경기도 고양시 서오릉로 500번길": {
+    "lat": 37.6316900649786,
+    "lng": 126.887307492649,
+    "provider": "kakao_address",
+    "ts": 1770956103.5702891,
+    "raw": {
+      "address": null,
+      "address_name": "경기 고양시 덕양구 서오릉로500번길",
+      "address_type": "ROAD",
+      "road_address": {
+        "address_name": "경기 고양시 덕양구 서오릉로500번길",
+        "building_name": "",
+        "main_building_no": "",
+        "region_1depth_name": "경기",
+        "region_2depth_name": "고양시 덕양구",
+        "region_3depth_name": "용두동",
+        "road_name": "서오릉로500번길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "126.887307492649",
+        "y": "37.6316900649786",
+        "zone_no": ""
+      },
+      "x": "126.887307492649",
+      "y": "37.6316900649786"
+    }
+  },
+  "서울특별시 용산구 한강대로 23길 25": {
+    "lat": 37.5276397334571,
+    "lng": 126.964349149383,
+    "provider": "kakao_address",
+    "ts": 1770956103.8117049,
+    "raw": {
+      "address": {
+        "address_name": "서울 용산구 한강로3가 40-708",
+        "b_code": "1117012800",
+        "h_code": "1117062500",
+        "main_address_no": "40",
+        "mountain_yn": "N",
+        "region_1depth_name": "서울",
+        "region_2depth_name": "용산구",
+        "region_3depth_h_name": "한강로동",
+        "region_3depth_name": "한강로3가",
+        "sub_address_no": "708",
+        "x": "126.964349149383",
+        "y": "37.5276397334571"
+      },
+      "address_name": "서울 용산구 한강대로23길 25",
+      "address_type": "ROAD_ADDR",
+      "road_address": {
+        "address_name": "서울 용산구 한강대로23길 25",
+        "building_name": "",
+        "main_building_no": "25",
+        "region_1depth_name": "서울",
+        "region_2depth_name": "용산구",
+        "region_3depth_name": "한강로3가",
+        "road_name": "한강대로23길",
+        "sub_building_no": "",
+        "underground_yn": "N",
+        "x": "126.964349149383",
+        "y": "37.5276397334571",
+        "zone_no": "04378"
+      },
+      "x": "126.964349149383",
+      "y": "37.5276397334571"
+    }
+  }
+}
